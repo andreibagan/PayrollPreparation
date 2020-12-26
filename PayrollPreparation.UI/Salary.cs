@@ -115,7 +115,7 @@ namespace PayrollPreparation.UI
                 {
                     vichet += SettingsBL.Settings.Default.OtherCatagory;
                 }
-                if (Under18Value > 2)
+                if (Under18Value > 0)
                 {
                     if (Under18Value == 1)
                     {
