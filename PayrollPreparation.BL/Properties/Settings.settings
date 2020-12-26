@@ -1,0 +1,72 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PayrollPreparation.BL.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="January" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">168</Value>
+    </Setting>
+    <Setting Name="February" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">160</Value>
+    </Setting>
+    <Setting Name="March" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">159</Value>
+    </Setting>
+    <Setting Name="April" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">175</Value>
+    </Setting>
+    <Setting Name="May" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">158</Value>
+    </Setting>
+    <Setting Name="June" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">160</Value>
+    </Setting>
+    <Setting Name="July" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">175</Value>
+    </Setting>
+    <Setting Name="August" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">176</Value>
+    </Setting>
+    <Setting Name="September" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">168</Value>
+    </Setting>
+    <Setting Name="October" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">184</Value>
+    </Setting>
+    <Setting Name="November" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">159</Value>
+    </Setting>
+    <Setting Name="December" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">166</Value>
+    </Setting>
+    <Setting Name="Salary" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">180</Value>
+    </Setting>
+    <Setting Name="FromOneToFive" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="FromFiveToTen" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="FromTenToFifteen" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">15</Value>
+    </Setting>
+    <Setting Name="MoreThanFifteen" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">20</Value>
+    </Setting>
+    <Setting Name="SmallSalary" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">110</Value>
+    </Setting>
+    <Setting Name="OneUnder18" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">32</Value>
+    </Setting>
+    <Setting Name="TwoAndMoreUnder18" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">61</Value>
+    </Setting>
+    <Setting Name="OtherCatagory" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">155</Value>
+    </Setting>
+    <Setting Name="SmallSalaryValue" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">665</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
